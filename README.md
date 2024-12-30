@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development, machine
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **scalable machine learning solutions for supply chain and retail use cases**
-- 🌱 I’m currently learning **Rust and topics distributed computing**
+- 🌱 I’m currently learning **Rust and topics in distributed computing**
 
 ## 🛠️ Technologies & Tools
 
