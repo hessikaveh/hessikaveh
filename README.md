@@ -14,12 +14,6 @@ Welcome to my GitHub profile! I'm passionate about software development, machine
 - Data Science: ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![LazyVim](https://img.shields.io/badge/-LazyVim-007ACC?logo=neovim&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Kaveh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hessikaveh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hessikaveh&layout=compact&theme=radical)
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sam-kaveh)
