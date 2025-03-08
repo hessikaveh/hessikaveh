@@ -26,6 +26,4 @@ Here are some of my favorite projects:
 
 - [Sylt-2d](https://github.com/hessikaveh/sylt-2d): A ligtweight Physics Engine based on Box2d-lite with addition of polygons and written in Rust.
 - [Frekanz](https://github.com/hessikaveh/Frekanz): A most frequent vocabulary trainer for german language hosted [here](https://frekanz.vercel.app/) 
----
 
-⭐️ From [hessikaveh](https://github.com/hessikaveh)
